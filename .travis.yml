@@ -5,7 +5,7 @@ os: linux
 dist: xenial # 指定 CI 系统版本为 Ubuntu16.04 LTS
 
 node_js:
-  - 14.15.1 #Node.js 版本
+  - stable #Node.js 版本
 
 branches:
   only:
