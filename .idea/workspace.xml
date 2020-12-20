@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b811339d-7388-46a9-add6-585d8e4c5129" name="Default Changelist" comment="" />
+    <list default="true" id="b811339d-7388-46a9-add6-585d8e4c5129" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +69,7 @@
       <updated>1608296743236</updated>
       <workItem from="1608296744399" duration="1891000" />
       <workItem from="1608350154999" duration="1553000" />
-      <workItem from="1608352448647" duration="12463000" />
+      <workItem from="1608352448647" duration="17020000" />
     </task>
     <servers />
   </component>
@@ -98,6 +101,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1995" height="1034" key="DiffContextDialog" timestamp="1608433555844">
+      <screen x="0" y="0" width="2194" height="1234" />
+    </state>
+    <state x="100" y="100" width="1995" height="1034" key="DiffContextDialog/0.0.2194.1234/3840.0.1536.864@0.0.2194.1234" timestamp="1608433555844" />
     <state x="877" y="358" key="FileChooserDialogImpl" timestamp="1608350584610">
       <screen x="0" y="0" width="2194" height="1234" />
     </state>

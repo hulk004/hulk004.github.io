@@ -18,7 +18,7 @@ style:
   avatar: /images/avatar.jpg
 
   # Favicon (You can use local image or image external link)
-  favicon: /images/logo.svg
+  favicon: /images/logo_1.svg
 
   # Image align position, value: left | center
   img_position: left
